@@ -1,0 +1,22 @@
+{
+    "name": "workbox-example",
+    "version": "1.0.0",
+    "description": "Example of using Workbox to run in-browser REST like API.",
+    "main": "index.html",
+    "scripts": {
+        "start": "parcel serve index.html",
+        "build": "parcel build index.html",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "workbox"
+    ],
+    "author": "Dmytro Sych",
+    "license": "MIT",
+    "devDependencies": {
+        "parcel-bundler": "^1.9.7"
+    },
+    "dependencies": {
+        "workbox-routing": "^3.4.1"
+    }
+}
