@@ -1,2 +1,4 @@
 # workbox-example
-Example of using Workbox to run in-browser REST like API.
+
+-   To run dev server with Parcel `npm start`.
+-   To build production version `npm run build`
